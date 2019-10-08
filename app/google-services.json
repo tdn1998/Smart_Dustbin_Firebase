@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566162040356",
+    "firebase_url": "https://smart-dustbin-9fb23.firebaseio.com",
+    "project_id": "smart-dustbin-9fb23",
+    "storage_bucket": "smart-dustbin-9fb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566162040356:android:36c91196a92c3cc3e9dab1",
+        "android_client_info": {
+          "package_name": "com.dkb.smart_dustbin_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566162040356-2r77c176ti08h4ej8ste5o5do96fjb14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkb.smart_dustbin_firebase",
+            "certificate_hash": "ccef620ca5b3246313f671b694e060a7dfab0b90"
+          }
+        },
+        {
+          "client_id": "566162040356-k979isg4klmub5ppnpnlqe466v6dqu79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnxNTxgrDUBis1_cr8dkJJn2iKUUHxUmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566162040356-k979isg4klmub5ppnpnlqe466v6dqu79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
